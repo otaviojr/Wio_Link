@@ -872,6 +872,14 @@ class NodeGetResourcesHandler(NodeBaseHandler):
         data = []
         events = []
         self.vhost_url_base = server_config.vhost_url_base.rstrip('/')
+
+        if not self.vhost_url_base:
+            if self.request.host.find(":8080") >= 0:
+                protocol = 'http'
+            else:
+                protocol = 'https'
+            self.vhost_url_base = '%s://%s' % (protocol, self.request.host)
+
         #self.vhost_url_base = self.get_argument("data_server", server_config.vhost_url_base.rstrip('/'))
         #if self.vhost_url_base.find('http') < 0:
         #    self.vhost_url_base = 'https://'+self.vhost_url_base
