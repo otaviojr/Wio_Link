@@ -43,9 +43,9 @@ On the plan:
 
 ## Documentation
 
-* [API Documentation](API Documentation)
-* [Server Deployment Guide](Server Deployment Guide)
-* [Advanced User Guide](Advanced User Guide)
+* [API Documentation](https://github.com/Seeed-Studio/Wio_Link/wiki/API%20Documentation)
+* [Server Deployment Guide](https://github.com/Seeed-Studio/Wio_Link/wiki/Server%20Deployment%20Guide)
+* [Advanced User Guide](https://github.com/Seeed-Studio/Wio_Link/wiki/Advanced%20User%20Guide)
 
 
 ## How to integrate 3rd party modules into Wio Link 
