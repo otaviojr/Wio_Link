@@ -257,7 +257,7 @@ class UserRetrievePasswordHandler(BaseHandler):
         sender = 'no_reply@seeed.cc'
         receiver = email
 
-        message = """From: Pion_One <%s>
+        message = """From: Wio_Link <%s>
 To: <%s>
 Subject: The password for your account of iot.seeed.cc has been retrieved
 
