@@ -3,7 +3,7 @@
 
 
 
-[![Wio Link](http://www.seeedstudio.com/wiki/images/thumb/c/ce/Wio-link-111.jpeg/800px-Wio-link-111.jpeg.png)](http://iot.seeed.cc)
+[![Wio Link](http://www.seeedstudio.com/wiki/images/c/ce/Wio-link-111.jpeg)](http://iot.seeed.cc)
 
 
 ## Introduction
@@ -12,7 +12,7 @@ Wio Link is an easy to use IoT platform based on esp8266 wifi solution chip from
 Features:
 
 * Totally open sourced for both software and hardware
-* No need programming
+* No need microcontroller programming
 * Config with GUI
 * Web of Things for hundreds of Grove modules (covering most IOT application domains)
 * WiFi enabled with ESP8266 which is not expensive to have
