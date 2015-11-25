@@ -7,7 +7,7 @@
 
 
 ## Introduction
-Wio Link is an easy to use IoT platform based on esp8266 wifi solution chip from espressif and grove modules from seeedstudio. The key feature of this project is that users never need to program one line of code before he get all the Grove modules into Web of Things. 
+Wio Link is an ESP8266 based WiFi dev board to create IoT applications with plug-n-play modules,mobile Apps and Restful APIs. The key feature of this project is that users never need to program one line of code before he get all the Grove modules into Web of Things. 
 
 Features:
 
@@ -19,6 +19,10 @@ Features:
 * Security enhenced (AES for session between node & server, https for API calls)
 * RESTful APIs for application 
 * Lightweighted and open sourced broker server based on Tornado
+
+
+[Video: 3 Steps. 5 Minutes. Build IoT Device.](https://www.youtube.com/watch?v=P_SO_a6X-y0#action=share)
+
 
 
 
@@ -48,7 +52,7 @@ On the plan:
 * [Advanced User Guide](https://github.com/Seeed-Studio/Wio_Link/wiki/Advanced%20User%20Guide)
 
 
-## How to integrate 3rd party modules into Wio Link 
+## How to write module driver? 
 
 Coming soon.
 
