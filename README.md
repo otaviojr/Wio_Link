@@ -52,9 +52,9 @@ On the plan:
 * [Advanced User Guide](https://github.com/Seeed-Studio/Wio_Link/wiki/Advanced%20User%20Guide)
 
 
-## How to write module driver? 
+## How to write module driver for Wio Link? 
 
-Coming soon.
+Please move to this [guide](https://github.com/Seeed-Studio/Wio_Link/wiki/How-to-write-module-driver-for-Wio-Link%3F).
 
 ## License
 
