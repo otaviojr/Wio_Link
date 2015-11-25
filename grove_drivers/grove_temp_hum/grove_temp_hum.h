@@ -61,20 +61,20 @@ public:
     /**
      * The basic temperature and humidity sensor will update the reading every 2 seconds.
      * 
-     * @param temperature - unit: Celsius degree
+     * @param celsius_degree - unit: Celsius degree
      * 
      * @return bool 
      */
-    bool read_temperature(float *temperature);
+    bool read_temperature(float *celsius_degree);
     
     /**
      * The basic temperature and humidity sensor will update the reading every 2 seconds.
      * 
-     * @param temperature - Fahrenheit degree
+     * @param fahrenheit_degree - Fahrenheit degree
      * 
      * @return bool 
      */
-    bool read_temperature_f(float *temperature);
+    bool read_temperature_f(float *fahrenheit_degree);
     
     /**
      * The basic temperature and humidity sensor will update the reading every 2 seconds.
